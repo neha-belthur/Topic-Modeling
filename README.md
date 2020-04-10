@@ -3,4 +3,4 @@ Overview of the steps involved:
 1. Clean new articles to remove unwanted characters/ words
 2. Pre-process the text: create bag of words and tf-idf scores
 3. Fit LDA model
-4. Visualioze LDA model output
+4. Visualize LDA model output
